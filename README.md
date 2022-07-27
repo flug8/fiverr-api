@@ -6,6 +6,8 @@
 
 This is an unofficial api to fetch Fiverr seller's data
 
+Based on salmannotkhans work !
+
 ## How to run?
 
 ### Manually
