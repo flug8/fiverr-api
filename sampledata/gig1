@@ -1,0 +1,1033 @@
+{
+  "general": {
+    "gigId": 142015082,
+    "gigStatus": "approved",
+    "categoryId": 20,
+    "categoryName": "Video & Animation",
+    "categorySlug": "video-animation",
+    "subCategoryId": 104,
+    "subCategoryName": "Logo Animation",
+    "subCategorySlug": "logo-animation-services",
+    "nestedSubCategoryId": null,
+    "nestedSubCategorySlug": null,
+    "isOnVacation": false,
+    "isBuyerBlocked": false,
+    "isPro": false,
+    "isHandpicked": false,
+    "isStudio": false,
+    "gigTitle": "winter forest logo animation intro",
+    "encryptedGigId": "FG56E0AB7628",
+    "sellerId": 82095660,
+    "traffiqed": false,
+    "isSellerBlocked": false,
+    "gigVisibleToSeller": true,
+    "gigVisibleToBuyer": true,
+    "isTrustedUser": false,
+    "includeWorkSample": true
+  },
+  "outOfOffice": {
+    "username": "flugcraft",
+    "sellerId": 82095660,
+    "isOnVacation": false,
+    "endDate": null,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/78076ec065e4a2c51ca57e3e39dea545-1646841620746/a7500fa6-6035-4320-bebb-38287b9ce8c4.jpg",
+    "allowContact": true,
+    "awayReason": null,
+    "awayMessage": null,
+    "gigId": 142015082
+  },
+  "sellerCard": {
+    "oneLiner": "",
+    "rating": 4.9,
+    "achievement": null,
+    "ratingsCount": 31,
+    "countryCode": "CH",
+    "proficientLanguages": [
+      {
+        "name": "de",
+        "level": 4
+      },
+      {
+        "name": "en",
+        "level": 2
+      },
+      {
+        "name": "fr",
+        "level": 1
+      }
+    ],
+    "memberSince": 1574874231,
+    "responseTime": 0,
+    "recentDelivery": 1646858007000,
+    "description": "****\r\n\r\nI make 3D animated Intros.\r\n\r\n****\r\n\r\nMore Description comming soon...",
+    "isPro": false,
+    "proSubCategories": [],
+    "hasProfilePhoto": true,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/78076ec065e4a2c51ca57e3e39dea545-1646841620746/a7500fa6-6035-4320-bebb-38287b9ce8c4.jpg"
+  },
+  "description": {
+    "content": "*************************************************<br>Winter Forest Intro with your personal Logo<br>*************************************************<br>",
+    "metadataAttributes": [
+      {
+        "name": "animation_type",
+        "options": [
+          "3d_reveal"
+        ],
+        "metadata": {
+          "name": "animation_type",
+          "alias": "Animation type",
+          "translationKey": "metadata.category_104.animation_type.title",
+          "visibility": "marketplace",
+          "order": 10,
+          "metadataOptions": {
+            "3d_reveal": {
+              "name": "3d_reveal",
+              "alias": "3D Reveal",
+              "translationKey": "metadata.category_104.animation_type.options.3d_reveal",
+              "order": 10
+            },
+            "2d_reveal": {
+              "name": "2d_reveal",
+              "alias": "2D reveal",
+              "translationKey": "metadata.category_104.animation_type.options.2d_reveal",
+              "order": 20
+            },
+            "flat": {
+              "name": "flat",
+              "alias": "Flat",
+              "translationKey": "metadata.category_104.animation_type.options.flat",
+              "order": 30
+            },
+            "morphing": {
+              "name": "morphing",
+              "alias": "Morphing",
+              "translationKey": "metadata.category_104.animation_type.options.morphing",
+              "order": 40
+            },
+            "cartoonish": {
+              "name": "cartoonish",
+              "alias": "Cartoonish",
+              "translationKey": "metadata.category_104.animation_type.options.cartoonish",
+              "order": 50
+            },
+            "3d": {
+              "name": "3d",
+              "alias": "3D",
+              "translationKey": "metadata.category_104.animation_type.options.3d",
+              "order": 60
+            },
+            "hand_drawn": {
+              "name": "hand_drawn",
+              "alias": "Hand-drawn",
+              "translationKey": "metadata.category_104.animation_type.options.hand_drawn",
+              "order": 70
+            },
+            "stop_motion": {
+              "name": "stop_motion",
+              "alias": "Stop motion",
+              "translationKey": "metadata.category_104.animation_type.options.stop_motion",
+              "order": 80
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_104.animation_type.options.other",
+              "order": 90
+            }
+          }
+        }
+      },
+      {
+        "name": "file_format",
+        "options": [
+          "mp4"
+        ],
+        "metadata": {
+          "name": "file_format",
+          "alias": "File format",
+          "translationKey": "metadata.category_104.file_format.title",
+          "visibility": "marketplace",
+          "order": 20,
+          "metadataOptions": {
+            "mp4": {
+              "name": "mp4",
+              "alias": "MP4",
+              "translationKey": "metadata.category_104.file_format.options.mp4",
+              "order": 10
+            },
+            "mov": {
+              "name": "mov",
+              "alias": "MOV",
+              "translationKey": "metadata.category_104.file_format.options.mov",
+              "order": 20
+            },
+            "gif": {
+              "name": "gif",
+              "alias": "GIF",
+              "translationKey": "metadata.category_104.file_format.options.gif",
+              "order": 30
+            },
+            "apng": {
+              "name": "apng",
+              "alias": "APNG",
+              "translationKey": "metadata.category_104.file_format.options.apng",
+              "order": 40
+            },
+            "css": {
+              "name": "css",
+              "alias": "CSS",
+              "translationKey": "metadata.category_104.file_format.options.css",
+              "order": 50
+            },
+            "svg": {
+              "name": "svg",
+              "alias": "SVG",
+              "translationKey": "metadata.category_104.file_format.options.svg",
+              "order": 60
+            },
+            "html5": {
+              "name": "html5",
+              "alias": "HTML5",
+              "translationKey": "metadata.category_104.file_format.options.html5",
+              "order": 70
+            },
+            "avi": {
+              "name": "avi",
+              "alias": "AVI",
+              "translationKey": "metadata.category_104.file_format.options.avi",
+              "order": 80
+            },
+            "flv": {
+              "name": "flv",
+              "alias": "FLV",
+              "translationKey": "metadata.category_104.file_format.options.flv",
+              "order": 90
+            },
+            "m4v": {
+              "name": "m4v",
+              "alias": "M4V",
+              "translationKey": "metadata.category_104.file_format.options.m4v",
+              "order": 100
+            },
+            "swf": {
+              "name": "swf",
+              "alias": "SWF",
+              "translationKey": "metadata.category_104.file_format.options.swf",
+              "order": 110
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_104.file_format.options.other",
+              "order": 120
+            }
+          }
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "slides": [
+      {
+        "slide": {
+          "name": "winter forest logo animation intro",
+          "src": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/tuptfic4deqxhd6lrn9k",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/videos/t_thumbnail3_3/tuptfic4deqxhd6lrn9k/winter-forest-logo-animation-intro.png",
+            "medium": "https://fiverr-res.cloudinary.com/videos/t_main1,q_auto,f_auto/tuptfic4deqxhd6lrn9k/winter-forest-logo-animation-intro.png",
+            "original": "https://fiverr-res.cloudinary.com/videos/t_main1,q_auto,f_auto/tuptfic4deqxhd6lrn9k/winter-forest-logo-animation-intro.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/videos/t_thumbnail3_3/tuptfic4deqxhd6lrn9k/winter-forest-logo-animation-intro.png",
+          "isWorkSample": false,
+          "itemScopeType": "VideoSlide",
+          "attachmentId": "3143371",
+          "typeVideo": true,
+          "videoSrc": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/tuptfic4deqxhd6lrn9k"
+        }
+      },
+      {
+        "slide": {
+          "name": "winter forest logo animation intro",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/142015082/original/3cb7b961b38ed6a86d698bae84894b03d5ba2720/winter-forest-logo-animation-intro.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/142015082/original/3cb7b961b38ed6a86d698bae84894b03d5ba2720/winter-forest-logo-animation-intro.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/142015082/original/3cb7b961b38ed6a86d698bae84894b03d5ba2720/winter-forest-logo-animation-intro.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/142015082/original/3cb7b961b38ed6a86d698bae84894b03d5ba2720/winter-forest-logo-animation-intro.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/142015082/original/3cb7b961b38ed6a86d698bae84894b03d5ba2720/winter-forest-logo-animation-intro.jpg",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "142015082_1",
+          "typeImage": true,
+          "filename": "3cb7b961b38ed6a86d698bae84894b03d5ba2720.jpg"
+        }
+      },
+      {
+        "slide": {
+          "name": "winter forest logo animation intro",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs3/142015082/original/6ca0dad73dcfb7f4748ef3ec4c024493aa99292c/winter-forest-logo-animation-intro.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs3/142015082/original/6ca0dad73dcfb7f4748ef3ec4c024493aa99292c/winter-forest-logo-animation-intro.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs3/142015082/original/6ca0dad73dcfb7f4748ef3ec4c024493aa99292c/winter-forest-logo-animation-intro.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs3/142015082/original/6ca0dad73dcfb7f4748ef3ec4c024493aa99292c/winter-forest-logo-animation-intro.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs3/142015082/original/6ca0dad73dcfb7f4748ef3ec4c024493aa99292c/winter-forest-logo-animation-intro.jpg",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "142015082_3",
+          "typeImage": true,
+          "filename": "6ca0dad73dcfb7f4748ef3ec4c024493aa99292c.jpg"
+        }
+      },
+      {
+        "slide": {
+          "name": "winter forest logo animation intro",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/142015082/original/b5880f689f29b12c7c15baf6f3f23c1dea2eb3d4/winter-forest-logo-animation-intro.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs2/142015082/original/b5880f689f29b12c7c15baf6f3f23c1dea2eb3d4/winter-forest-logo-animation-intro.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/142015082/original/b5880f689f29b12c7c15baf6f3f23c1dea2eb3d4/winter-forest-logo-animation-intro.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs2/142015082/original/b5880f689f29b12c7c15baf6f3f23c1dea2eb3d4/winter-forest-logo-animation-intro.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs2/142015082/original/b5880f689f29b12c7c15baf6f3f23c1dea2eb3d4/winter-forest-logo-animation-intro.jpg",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "142015082_2",
+          "typeImage": true,
+          "filename": "b5880f689f29b12c7c15baf6f3f23c1dea2eb3d4.jpg"
+        }
+      },
+      {
+        "slide": {
+          "name": "winter forest logo animation intro",
+          "src": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/lizioardy2krc57nx8ro",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/lizioardy2krc57nx8ro/winter-forest-logo-animation-intro.png",
+            "medium": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/lizioardy2krc57nx8ro/winter-forest-logo-animation-intro.png",
+            "original": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/lizioardy2krc57nx8ro/winter-forest-logo-animation-intro.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/lizioardy2krc57nx8ro/winter-forest-logo-animation-intro.png",
+          "isWorkSample": true,
+          "itemScopeType": "VideoSlide",
+          "attachmentId": "142280100",
+          "orderId": 610475487,
+          "typeVideo": true,
+          "videoSrc": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/lizioardy2krc57nx8ro"
+        }
+      },
+      {
+        "slide": {
+          "name": "winter forest logo animation intro",
+          "src": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/zgaimr9zbuql2r0xsulw",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/zgaimr9zbuql2r0xsulw/winter-forest-logo-animation-intro.png",
+            "medium": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/zgaimr9zbuql2r0xsulw/winter-forest-logo-animation-intro.png",
+            "original": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/zgaimr9zbuql2r0xsulw/winter-forest-logo-animation-intro.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/zgaimr9zbuql2r0xsulw/winter-forest-logo-animation-intro.png",
+          "isWorkSample": true,
+          "itemScopeType": "VideoSlide",
+          "attachmentId": "141687914",
+          "orderId": 606786956,
+          "typeVideo": true,
+          "videoSrc": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/zgaimr9zbuql2r0xsulw"
+        }
+      },
+      {
+        "slide": {
+          "name": "winter forest logo animation intro",
+          "src": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/gh1daeaeueq4vwxoqo4r",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/gh1daeaeueq4vwxoqo4r/winter-forest-logo-animation-intro.png",
+            "medium": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/gh1daeaeueq4vwxoqo4r/winter-forest-logo-animation-intro.png",
+            "original": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/gh1daeaeueq4vwxoqo4r/winter-forest-logo-animation-intro.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/gh1daeaeueq4vwxoqo4r/winter-forest-logo-animation-intro.png",
+          "isWorkSample": true,
+          "itemScopeType": "VideoSlide",
+          "attachmentId": "137987103",
+          "orderId": 587728004,
+          "typeVideo": true,
+          "videoSrc": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/gh1daeaeueq4vwxoqo4r"
+        }
+      },
+      {
+        "slide": {
+          "name": "winter forest logo animation intro",
+          "src": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/myzrh3i2lagsbht9ualb",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/myzrh3i2lagsbht9ualb/winter-forest-logo-animation-intro.png",
+            "medium": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/myzrh3i2lagsbht9ualb/winter-forest-logo-animation-intro.png",
+            "original": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/myzrh3i2lagsbht9ualb/winter-forest-logo-animation-intro.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/myzrh3i2lagsbht9ualb/winter-forest-logo-animation-intro.png",
+          "isWorkSample": true,
+          "itemScopeType": "VideoSlide",
+          "attachmentId": "130432416",
+          "orderId": 549623246,
+          "typeVideo": true,
+          "videoSrc": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/myzrh3i2lagsbht9ualb"
+        }
+      },
+      {
+        "slide": {
+          "name": "winter forest logo animation intro",
+          "src": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/wvfzcqpl2fzcndfgoxsm",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/wvfzcqpl2fzcndfgoxsm/winter-forest-logo-animation-intro.png",
+            "medium": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/wvfzcqpl2fzcndfgoxsm/winter-forest-logo-animation-intro.png",
+            "original": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/wvfzcqpl2fzcndfgoxsm/winter-forest-logo-animation-intro.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/wvfzcqpl2fzcndfgoxsm/winter-forest-logo-animation-intro.png",
+          "isWorkSample": true,
+          "itemScopeType": "VideoSlide",
+          "attachmentId": "127899074",
+          "orderId": 536967070,
+          "typeVideo": true,
+          "videoSrc": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/wvfzcqpl2fzcndfgoxsm"
+        }
+      },
+      {
+        "slide": {
+          "name": "winter forest logo animation intro",
+          "src": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/lgiwivg2ek5a5pismatg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/lgiwivg2ek5a5pismatg/winter-forest-logo-animation-intro.png",
+            "medium": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/lgiwivg2ek5a5pismatg/winter-forest-logo-animation-intro.png",
+            "original": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/lgiwivg2ek5a5pismatg/winter-forest-logo-animation-intro.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/lgiwivg2ek5a5pismatg/winter-forest-logo-animation-intro.png",
+          "isWorkSample": true,
+          "itemScopeType": "VideoSlide",
+          "attachmentId": "125771809",
+          "orderId": 525846911,
+          "typeVideo": true,
+          "videoSrc": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/lgiwivg2ek5a5pismatg"
+        }
+      },
+      {
+        "slide": {
+          "name": "winter forest logo animation intro",
+          "src": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/ua4ec4dqfyn2neang9o2",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/ua4ec4dqfyn2neang9o2/winter-forest-logo-animation-intro.png",
+            "medium": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/ua4ec4dqfyn2neang9o2/winter-forest-logo-animation-intro.png",
+            "original": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/ua4ec4dqfyn2neang9o2/winter-forest-logo-animation-intro.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/ua4ec4dqfyn2neang9o2/winter-forest-logo-animation-intro.png",
+          "isWorkSample": true,
+          "itemScopeType": "VideoSlide",
+          "attachmentId": "125333973",
+          "orderId": 523565929,
+          "typeVideo": true,
+          "videoSrc": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/ua4ec4dqfyn2neang9o2"
+        }
+      },
+      {
+        "slide": {
+          "name": "winter forest logo animation intro",
+          "src": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/nfmllerood17soifaupu",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/nfmllerood17soifaupu/winter-forest-logo-animation-intro.png",
+            "medium": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/nfmllerood17soifaupu/winter-forest-logo-animation-intro.png",
+            "original": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/nfmllerood17soifaupu/winter-forest-logo-animation-intro.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/nfmllerood17soifaupu/winter-forest-logo-animation-intro.png",
+          "isWorkSample": true,
+          "itemScopeType": "VideoSlide",
+          "attachmentId": "119325383",
+          "orderId": 496234816,
+          "typeVideo": true,
+          "videoSrc": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/nfmllerood17soifaupu"
+        }
+      },
+      {
+        "slide": {
+          "name": "winter forest logo animation intro",
+          "src": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/ox9mapjdptblftzarymz",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/ox9mapjdptblftzarymz/winter-forest-logo-animation-intro.png",
+            "medium": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/ox9mapjdptblftzarymz/winter-forest-logo-animation-intro.png",
+            "original": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/ox9mapjdptblftzarymz/winter-forest-logo-animation-intro.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/ox9mapjdptblftzarymz/winter-forest-logo-animation-intro.png",
+          "isWorkSample": true,
+          "itemScopeType": "VideoSlide",
+          "attachmentId": "115987471",
+          "orderId": 483027855,
+          "typeVideo": true,
+          "videoSrc": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/ox9mapjdptblftzarymz"
+        }
+      },
+      {
+        "slide": {
+          "name": "winter forest logo animation intro",
+          "src": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/av1o18zukzkdlnwpnycc",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/av1o18zukzkdlnwpnycc/winter-forest-logo-animation-intro.png",
+            "medium": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/av1o18zukzkdlnwpnycc/winter-forest-logo-animation-intro.png",
+            "original": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/av1o18zukzkdlnwpnycc/winter-forest-logo-animation-intro.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/av1o18zukzkdlnwpnycc/winter-forest-logo-animation-intro.png",
+          "isWorkSample": true,
+          "itemScopeType": "VideoSlide",
+          "attachmentId": "115155012",
+          "orderId": 480129663,
+          "typeVideo": true,
+          "videoSrc": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/av1o18zukzkdlnwpnycc"
+        }
+      },
+      {
+        "slide": {
+          "name": "winter forest logo animation intro",
+          "src": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/wwksgzursvbv9k4qalth",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/wwksgzursvbv9k4qalth/winter-forest-logo-animation-intro.png",
+            "medium": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/wwksgzursvbv9k4qalth/winter-forest-logo-animation-intro.png",
+            "original": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/wwksgzursvbv9k4qalth/winter-forest-logo-animation-intro.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/wwksgzursvbv9k4qalth/winter-forest-logo-animation-intro.png",
+          "isWorkSample": true,
+          "itemScopeType": "VideoSlide",
+          "attachmentId": "114880564",
+          "orderId": 478570192,
+          "typeVideo": true,
+          "videoSrc": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/wwksgzursvbv9k4qalth"
+        }
+      },
+      {
+        "slide": {
+          "name": "winter forest logo animation intro",
+          "src": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/s3tswtktvtl9fdux8ssa",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/s3tswtktvtl9fdux8ssa/winter-forest-logo-animation-intro.png",
+            "medium": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/s3tswtktvtl9fdux8ssa/winter-forest-logo-animation-intro.png",
+            "original": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/s3tswtktvtl9fdux8ssa/winter-forest-logo-animation-intro.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/s3tswtktvtl9fdux8ssa/winter-forest-logo-animation-intro.png",
+          "isWorkSample": true,
+          "itemScopeType": "VideoSlide",
+          "attachmentId": "113405206",
+          "orderId": 472985600,
+          "typeVideo": true,
+          "videoSrc": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/s3tswtktvtl9fdux8ssa"
+        }
+      },
+      {
+        "slide": {
+          "name": "winter forest logo animation intro",
+          "src": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/dwkevst4xvn7bz5ujtnq",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/dwkevst4xvn7bz5ujtnq/winter-forest-logo-animation-intro.png",
+            "medium": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/dwkevst4xvn7bz5ujtnq/winter-forest-logo-animation-intro.png",
+            "original": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/dwkevst4xvn7bz5ujtnq/winter-forest-logo-animation-intro.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/dwkevst4xvn7bz5ujtnq/winter-forest-logo-animation-intro.png",
+          "isWorkSample": true,
+          "itemScopeType": "VideoSlide",
+          "attachmentId": "110763991",
+          "orderId": 462436461,
+          "typeVideo": true,
+          "videoSrc": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/dwkevst4xvn7bz5ujtnq"
+        }
+      },
+      {
+        "slide": {
+          "name": "winter forest logo animation intro",
+          "src": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/rrn5eh07mzn9haqkotqo",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/rrn5eh07mzn9haqkotqo/winter-forest-logo-animation-intro.png",
+            "medium": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/rrn5eh07mzn9haqkotqo/winter-forest-logo-animation-intro.png",
+            "original": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/rrn5eh07mzn9haqkotqo/winter-forest-logo-animation-intro.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/rrn5eh07mzn9haqkotqo/winter-forest-logo-animation-intro.png",
+          "isWorkSample": true,
+          "itemScopeType": "VideoSlide",
+          "attachmentId": "110368898",
+          "orderId": 460876165,
+          "typeVideo": true,
+          "videoSrc": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/rrn5eh07mzn9haqkotqo"
+        }
+      },
+      {
+        "slide": {
+          "name": "winter forest logo animation intro",
+          "src": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/syl43b5im8rocyjzjlhv",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/syl43b5im8rocyjzjlhv/winter-forest-logo-animation-intro.png",
+            "medium": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/syl43b5im8rocyjzjlhv/winter-forest-logo-animation-intro.png",
+            "original": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/syl43b5im8rocyjzjlhv/winter-forest-logo-animation-intro.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/syl43b5im8rocyjzjlhv/winter-forest-logo-animation-intro.png",
+          "isWorkSample": true,
+          "itemScopeType": "VideoSlide",
+          "attachmentId": "110335291",
+          "orderId": 460757263,
+          "typeVideo": true,
+          "videoSrc": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/syl43b5im8rocyjzjlhv"
+        }
+      },
+      {
+        "slide": {
+          "name": "winter forest logo animation intro",
+          "src": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/llaw7dc0pufo4wyzs3rf",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/llaw7dc0pufo4wyzs3rf/winter-forest-logo-animation-intro.png",
+            "medium": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/llaw7dc0pufo4wyzs3rf/winter-forest-logo-animation-intro.png",
+            "original": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/llaw7dc0pufo4wyzs3rf/winter-forest-logo-animation-intro.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/llaw7dc0pufo4wyzs3rf/winter-forest-logo-animation-intro.png",
+          "isWorkSample": true,
+          "itemScopeType": "VideoSlide",
+          "attachmentId": "109925392",
+          "orderId": 459169000,
+          "typeVideo": true,
+          "videoSrc": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/llaw7dc0pufo4wyzs3rf"
+        }
+      }
+    ]
+  },
+  "faq": {
+    "questionsAndAnswers": []
+  },
+  "packages": {
+    "packageList": [
+      {
+        "id": 1,
+        "title": "Basic Pack",
+        "description": "You can edit Logo or Text",
+        "price": 500,
+        "duration": 72,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 142015195,
+          "name": "modifications",
+          "included": true,
+          "value": -1,
+          "price": 0,
+          "extra": -1
+        },
+        "extraFast": {
+          "id": 142015200,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 48,
+          "value": 0,
+          "price": 1000
+        },
+        "features": [
+          {
+            "id": 142015196,
+            "name": "logo_transparency",
+            "duration": 0,
+            "included": true,
+            "label": "Logo transparency",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN"
+          },
+          {
+            "id": 142015198,
+            "name": "sounds_effects",
+            "duration": 0,
+            "included": true,
+            "label": "Sound effects",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN"
+          },
+          {
+            "id": 142015199,
+            "name": "included_versions",
+            "duration": 0,
+            "included": true,
+            "label": "Versions included",
+            "value": 1,
+            "extra": 1,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC"
+          },
+          {
+            "id": 142015197,
+            "name": "background_music",
+            "duration": 0,
+            "included": false,
+            "label": "Background music",
+            "value": 0,
+            "extra": 0,
+            "price": 500,
+            "serviceId": null,
+            "type": "BOOLEAN"
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      }
+    ],
+    "recurringOptions": []
+  },
+  "tags": {
+    "tagsGigList": [
+      {
+        "name": "winter",
+        "slug": "winter",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "winter"
+        }
+      },
+      {
+        "name": "forest",
+        "slug": "forest",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "forest"
+        }
+      },
+      {
+        "name": "intro",
+        "slug": "intro",
+        "formattedClassification": {
+          "type": "subCategory",
+          "key": {
+            "categorySlug": "video-animation",
+            "subCategorySlug": "video-intro-and-outro"
+          }
+        }
+      },
+      {
+        "name": "logo animation",
+        "slug": "logo-animation",
+        "formattedClassification": {
+          "type": "subCategory",
+          "key": {
+            "categorySlug": "video-animation",
+            "subCategorySlug": "logo-animation-services"
+          }
+        }
+      }
+    ]
+  },
+  "overview": {
+    "gig": {
+      "id": 142015082,
+      "title": "winter forest logo animation intro",
+      "rating": 4.9,
+      "ratingsCount": 21,
+      "ordersInQueue": 1
+    },
+    "seller": {
+      "id": 82095660,
+      "username": "flugcraft",
+      "achievement": null,
+      "isPro": false,
+      "hasProfilePhoto": true,
+      "profilePhoto": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/78076ec065e4a2c51ca57e3e39dea545-1646841620746/a7500fa6-6035-4320-bebb-38287b9ce8c4.jpg",
+      "countryCode": "CH",
+      "proficientLanguages": [
+        {
+          "name": "de",
+          "level": 4
+        },
+        {
+          "name": "en",
+          "level": 2
+        },
+        {
+          "name": "fr",
+          "level": 1
+        }
+      ]
+    },
+    "categories": {
+      "category": {
+        "name": "Video & Animation",
+        "slug": "video-animation"
+      },
+      "subCategory": {
+        "name": "Logo Animation",
+        "slug": "logo-animation-services"
+      },
+      "nestedSubCategory": null
+    }
+  },
+  "pro": {
+    "isPro": false
+  },
+  "topNav": {
+    "gigId": 142015082,
+    "gigTitle": "winter forest logo animation intro",
+    "gigCollectedCount": 74,
+    "sellerId": 82095660,
+    "sellerName": "flugcraft"
+  },
+  "portfolio": {
+    "slug": "winter-forest-logo-animation-intro",
+    "username": "flugcraft",
+    "projectsCount": 0,
+    "nextProjectIds": [],
+    "portfolioProjects": [],
+    "portfolioProjectsThumbs": []
+  },
+  "seo": {
+    "title": {
+      "gigTitle": "winter forest logo animation intro",
+      "sellerUsername": "flugcraft"
+    },
+    "description": {
+      "sellerAchievement": "",
+      "subCategoryName": "Logo Animation",
+      "gigTitle": "winter forest logo animation intro",
+      "serviceInclude": "Logo transparency",
+      "deliveryTime": "3 days"
+    },
+    "schemaMarkup": {
+      "type": "Product",
+      "gigTitle": "winter forest logo animation intro",
+      "gigImage": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/142015082/original/3cb7b961b38ed6a86d698bae84894b03d5ba2720/winter-forest-logo-animation-intro.jpg",
+      "gigRatings": {
+        "type": "AggregateRating",
+        "value": "4.9",
+        "count": "21",
+        "best": "5",
+        "worst": "0"
+      },
+      "gigOffers": {
+        "type": "Offer",
+        "price": "5.00",
+        "currency": "USD",
+        "availability": "inStock"
+      }
+    }
+  },
+  "customOrder": {
+    "seller": {
+      "status": "active",
+      "isOnVacation": false
+    },
+    "gig": {
+      "status": "approved",
+      "categoryId": 20,
+      "subCategoryId": 104
+    },
+    "currentUserStatus": null,
+    "allowCustomOrders": true,
+    "responseTime": 0
+  },
+  "moreServices": {
+    "subCategoryName": "Logo Animation",
+    "otherNestedSubCategoryGigs": []
+  },
+  "otherGigs": {
+    "gigIds": []
+  },
+  "openGraph": {
+    "description": "*************************************************<br>Winter Forest Intro with your personal Logo<br>*************************************************<br>",
+    "title": "winter forest logo animation intro",
+    "price": 500,
+    "image": "https://fiverr-res.cloudinary.com/videos/t_main1,q_auto,f_auto/tuptfic4deqxhd6lrn9k/winter-forest-logo-animation-intro.png",
+    "video": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/tuptfic4deqxhd6lrn9k"
+  },
+  "choiceEligibilities": [],
+  "repeatScore": {},
+  "workflow": {},
+  "workProcess": {},
+  "awsVsGoogleVariant": 1,
+  "highlightsData": {},
+  "reviews": {
+    "has_next": true,
+    "rating_algo_type": 1,
+    "gig_id": 142015082,
+    "average_valuation": 4.9,
+    "total_count": 21,
+    "reviews": [
+      {
+        "reviews_count_as_buyer": 7,
+        "id": "61f8eb5c78ed1100017d0453",
+        "comment": "as described - really nice, thanks",
+        "username": "d2cork",
+        "created_at": "2022-02-01T08:38:06",
+        "value": 5,
+        "work_sample": "https://fiverr-res.cloudinary.com/video/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/lizioardy2krc57nx8ro.png",
+        "work_sample_small": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_smartwm/t_delivery_small/lizioardy2krc57nx8ro.png",
+        "reviewer_country_code": "IE",
+        "reviewer_country": "Ireland",
+        "encrypted_order_id": "FO412318EEF84",
+        "score": 0,
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 142015082,
+        "relevancy_score": 0,
+        "price_range_end": 50
+      },
+      {
+        "reviews_count_as_buyer": 110,
+        "id": "61e71a3a2c89070001871f37",
+        "comment": "Good work, cheap price !",
+        "username": "tbagcoffeebag",
+        "created_at": "2022-01-18T19:54:33",
+        "value": 5,
+        "work_sample": "https://fiverr-res.cloudinary.com/video/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/zgaimr9zbuql2r0xsulw.png",
+        "work_sample_small": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_smartwm/t_delivery_small/zgaimr9zbuql2r0xsulw.png",
+        "reviewer_country_code": "FI",
+        "reviewer_country": "Finland",
+        "encrypted_order_id": "FO8169AC57782",
+        "score": 0,
+        "reviewer_industry": [],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 142015082,
+        "relevancy_score": 0,
+        "price_range_end": 50
+      },
+      {
+        "reviews_count_as_buyer": 4,
+        "id": "617405811c5f3f0001ed8cc8",
+        "comment": "Great ! Excellent result !!",
+        "username": "jan_bauters",
+        "created_at": "2021-10-23T13:10:02",
+        "value": 5,
+        "work_sample": "https://fiverr-res.cloudinary.com/video/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/gh1daeaeueq4vwxoqo4r.png",
+        "work_sample_small": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_smartwm/t_delivery_small/gh1daeaeueq4vwxoqo4r.png",
+        "reviewer_country_code": "BE",
+        "reviewer_country": "Belgium",
+        "encrypted_order_id": "FO415E502D286",
+        "score": 0,
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 142015082,
+        "relevancy_score": 0,
+        "price_range_end": 50
+      },
+      {
+        "reviews_count_as_buyer": 35,
+        "id": "609ae29245acfb000197e96e",
+        "comment": "Great work",
+        "username": "shanewicks79",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/19d6e85bb7c4fd698dbd68f9b5b1a4d7-762298011563195125.544215/E9D9AC34-6728-4C10-99D5-D364B7815A0D",
+        "created_at": "2021-05-11T20:09:41",
+        "value": 5,
+        "work_sample": "https://fiverr-res.cloudinary.com/video/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/myzrh3i2lagsbht9ualb.png",
+        "work_sample_small": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_smartwm/t_delivery_small/myzrh3i2lagsbht9ualb.png",
+        "reviewer_country_code": "CA",
+        "reviewer_country": "Canada",
+        "encrypted_order_id": "FO1C48F82D45",
+        "score": 0,
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 142015082,
+        "relevancy_score": 0,
+        "price_range_end": 50
+      },
+      {
+        "reviews_count_as_buyer": 365,
+        "id": "605978bfc7547500014d149b",
+        "comment": "Great Fivver seller AAAAA+++++++",
+        "username": "pigeonpatrol",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/82320620edc3b610d64a7aa98fce1d22-1628188555079/7e7fa09b-ddaf-40b8-ad3f-f66672e258b5.jpg",
+        "created_at": "2021-03-23T06:11:12",
+        "value": 5,
+        "work_sample": "https://fiverr-res.cloudinary.com/video/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/wvfzcqpl2fzcndfgoxsm.png",
+        "work_sample_small": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_smartwm/t_delivery_small/wvfzcqpl2fzcndfgoxsm.png",
+        "reviewer_country_code": "CA",
+        "reviewer_country": "Canada",
+        "encrypted_order_id": "FO5C008CDB41",
+        "score": 0,
+        "reviewer_industry": [],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 142015082,
+        "relevancy_score": 0,
+        "price_range_end": 50
+      }
+    ],
+    "reviews_snippet": [],
+    "star_summary": {
+      "communication_valuation": 4.8,
+      "recommend_valuation": 4.9,
+      "service_valuation": 4.9
+    },
+    "breakdown": [
+      {
+        "average_valuation_value": 1,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 2,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 3,
+        "count": 1
+      },
+      {
+        "average_valuation_value": 4,
+        "count": 1
+      },
+      {
+        "average_valuation_value": 5,
+        "count": 19
+      }
+    ],
+    "seller_username": "flugcraft",
+    "seller_img_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/78076ec065e4a2c51ca57e3e39dea545-1646841620746/a7500fa6-6035-4320-bebb-38287b9ce8c4.jpg",
+    "filters_counters": {
+      "work_sample": 20,
+      "business": 0
+    },
+    "dynamicTranslations": {}
+  },
+  "notableClients": [],
+  "isTrustedFreelancer": false,
+  "seller": {
+    "isHighlyResponsive": false,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "vacation": null,
+    "isActive": true,
+    "user": {
+      "id": "82095660",
+      "languages": [
+        {
+          "code": "DE"
+        },
+        {
+          "code": "EN"
+        },
+        {
+          "code": "FR"
+        }
+      ]
+    },
+    "isPro": false
+  },
+  "gig": {},
+  "currentUser": {
+    "isRnc": false
+  },
+  "currency": {
+    "name": "CHF",
+    "rate": 1.0094838936,
+    "template": "{{amount}} CHF",
+    "forceRound": true,
+    "forceRoundFromAmount": 1000
+  },
+  "rollouts": {
+    "mustangs_business_gig_page": false,
+    "zebras_acq_collection_stepper_gig_page": false,
+    "panthers_gig_page_fmp": false,
+    "subscription_drawer_articles_blog_posts": true,
+    "cobras_gig_returning_buyer_modal": false,
+    "qualas_search_on_review_active": true,
+    "foxes_gig_page_checkout_drawer": false,
+    "foxes_gig_page_checkout_test_allocation": false,
+    "cham_csr_pcp_v_five_routes": true,
+    "cobras_post_fmp_more_gigs": false,
+    "foxes_gig_page_fetch_other_gigs_by": true
+  }
+}

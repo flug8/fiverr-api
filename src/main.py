@@ -154,9 +154,11 @@ async def get_reviews(username: str, filter_by: Union[FilterBy, None] = None,
     # Adding CSRF Token
     reviews_headers["X-CSRF-Token"] = user_data["csrfToken"]
     reviews_headers["Referer"] = f"https://www.fiverr.com/{username}"
+    # return user_data["csrfToken"]
     # Setting up payload
     payload: dict[str, str] = {}
     payload["user_id"] = user_data["userData"]["user"]["id"]
+    payload["limit"] = "500"
     if filter_by:
         payload["filter_by"] = filter_by.value
     if sort_by:
@@ -172,6 +174,10 @@ async def get_reviews(username: str, filter_by: Union[FilterBy, None] = None,
         payload["last_star_rating_id"] = reviews[-1]["id"]
         payload["last_review_id"] = reviews[-1]["id"]
     reviews = reviews[:limit]
+
+    with open('data.json', 'w') as fp:
+        pl_d = json.dump(payload)
+        fp.write(pl_d)
     if group_by_buyer:
         merged_reviews: dict[str, list[dict[str, str]]] = {}
         for review in reviews:
